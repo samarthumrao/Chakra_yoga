@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+scikit-learn
+keyboard
+flask
+flask-cors
